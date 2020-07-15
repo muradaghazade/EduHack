@@ -334,6 +334,10 @@ a:hover {
     border-radius: 5px;
     width: 75%;
 }
+.bemx {
+    border-radius: 5px;
+    width: 50%;
+}
 .events-image:hover {
     transform: scale(1.01);
 }
@@ -495,6 +499,10 @@ a:hover {
         border-radius: 5px;
         width: 100%;
     }
+    .bemx {
+        border-radius: 5px;
+        width: 100%;
+    }
     .higher {
         margin-top: 150px;
     }
@@ -523,6 +531,10 @@ a:hover {
         margin-top: 150px;
     }
     .bem {
+        border-radius: 5px;
+        width: 100%;
+    }
+    .bemx {
         border-radius: 5px;
         width: 100%;
     }
